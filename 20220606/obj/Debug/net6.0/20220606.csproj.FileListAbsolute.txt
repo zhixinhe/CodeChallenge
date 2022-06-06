@@ -1,0 +1,15 @@
+D:\Revature\ZhixinHe\CodeChallenge\20220606\bin\Debug\net6.0\20220606.exe
+D:\Revature\ZhixinHe\CodeChallenge\20220606\bin\Debug\net6.0\20220606.deps.json
+D:\Revature\ZhixinHe\CodeChallenge\20220606\bin\Debug\net6.0\20220606.runtimeconfig.json
+D:\Revature\ZhixinHe\CodeChallenge\20220606\bin\Debug\net6.0\20220606.dll
+D:\Revature\ZhixinHe\CodeChallenge\20220606\bin\Debug\net6.0\20220606.pdb
+D:\Revature\ZhixinHe\CodeChallenge\20220606\obj\Debug\net6.0\20220606.csproj.AssemblyReference.cache
+D:\Revature\ZhixinHe\CodeChallenge\20220606\obj\Debug\net6.0\20220606.GeneratedMSBuildEditorConfig.editorconfig
+D:\Revature\ZhixinHe\CodeChallenge\20220606\obj\Debug\net6.0\20220606.AssemblyInfoInputs.cache
+D:\Revature\ZhixinHe\CodeChallenge\20220606\obj\Debug\net6.0\20220606.AssemblyInfo.cs
+D:\Revature\ZhixinHe\CodeChallenge\20220606\obj\Debug\net6.0\20220606.csproj.CoreCompileInputs.cache
+D:\Revature\ZhixinHe\CodeChallenge\20220606\obj\Debug\net6.0\20220606.dll
+D:\Revature\ZhixinHe\CodeChallenge\20220606\obj\Debug\net6.0\refint\20220606.dll
+D:\Revature\ZhixinHe\CodeChallenge\20220606\obj\Debug\net6.0\20220606.pdb
+D:\Revature\ZhixinHe\CodeChallenge\20220606\obj\Debug\net6.0\20220606.genruntimeconfig.cache
+D:\Revature\ZhixinHe\CodeChallenge\20220606\obj\Debug\net6.0\ref\20220606.dll
