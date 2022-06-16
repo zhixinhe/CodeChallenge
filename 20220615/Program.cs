@@ -42,7 +42,7 @@ public class Test
 
     {
 
-        string[] tokens = Console.ReadLine().Split();
+        string[]? tokens = Console.ReadLine().Split();
 
         int n = Convert.ToInt32(tokens[0]);
 
@@ -52,7 +52,7 @@ public class Test
 
         int[] a = new int[n];
 
-        string[] tokens_line2 = Console.ReadLine().Split();
+        string[]? tokens_line2 = Console.ReadLine().Split();
 
         for(int i = 0; i < n; i++)
 
