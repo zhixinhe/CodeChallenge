@@ -6,7 +6,7 @@ public class Test
 
 {
 
-    public static int Base(int N)
+    public static int Base(int N, int Base=9)
 
     {
 
@@ -20,9 +20,9 @@ public class Test
 
         int b = 1;
 
-        int x = N/9;
+        int x = N/Base;
 
-        int y = N%9;
+        int y = N%Base;
 
         while (N>0) {
 
@@ -34,9 +34,9 @@ public class Test
 
             N = x;
 
-            x = N/9;
+            x = N/Base;
 
-            y = N%9;
+            y = N%Base;
 
         } 
 
@@ -61,9 +61,13 @@ public class Test
 
 
         //OUTPUT [uncomment & modify if required]
-
+        
         Console.WriteLine(Base(N));
-
+        //OUTPUT for all bases:
+        // for (int i = 2; i <= 10; i++)
+        // {
+            // Console.WriteLine($"N:{N} base:{i} output:{Base(N, i)}");
+        // }
     }
 
 }
